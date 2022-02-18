@@ -2677,6 +2677,13 @@
 						41850,
 						5,
 						225
+					],
+					[
+						40800,
+						-1,
+						"Change Character",
+						"1",
+						"scourge_mad"
 					]
 				],
 				"mustHitSection": false
@@ -2906,6 +2913,20 @@
 						46650,
 						4,
 						225
+					],
+					[
+						45600,
+						-1,
+						"Change Character",
+						"1",
+						"scourge_mad"
+					],
+					[
+						46650,
+						-1,
+						"Change Character",
+						"1",
+						"scourge"
 					]
 				],
 				"mustHitSection": true
@@ -3973,6 +3994,13 @@
 						61050,
 						2,
 						225
+					],
+					[
+						60000,
+						-1,
+						"Change Character",
+						"1",
+						"scourge_mad"
 					]
 				],
 				"mustHitSection": true
@@ -5324,6 +5352,13 @@
 						89925,
 						1,
 						0
+					],
+					[
+						88800,
+						-1,
+						"Change Character",
+						"1",
+						"scourge_forced"
 					]
 				],
 				"altAnim": false,
@@ -6879,6 +6914,13 @@
 						109125,
 						2,
 						0
+					],
+					[
+						108000,
+						-1,
+						"Change Character",
+						"1",
+						"scourge_mad"
 					]
 				],
 				"altAnim": false,
@@ -10693,7 +10735,7 @@
 				]
 			]
 		],
-		"player3": null,
+		"player3": "gfTroll",
 		"initialSpeed": 1.26,
 		"sliderVelocities": null,
 		"song": "No-Heroes",
