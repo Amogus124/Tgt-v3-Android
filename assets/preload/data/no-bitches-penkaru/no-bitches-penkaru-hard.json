@@ -2867,6 +2867,13 @@
 						63450,
 						4,
 						0
+					],
+					[
+						63300,
+						-1,
+						"Change Character",
+						"1",
+						"dripsonic_mad"
 					]
 				],
 				"mustHitSection": true
@@ -3029,6 +3036,13 @@
 						65850,
 						4,
 						0
+					],
+					[
+						65700,
+						-1,
+						"Change Character",
+						"1",
+						"dripsonic"
 					]
 				],
 				"mustHitSection": true
@@ -4526,6 +4540,13 @@
 						87300,
 						6,
 						525
+					],
+					[
+						86400,
+						-1,
+						"Change Character",
+						"1",
+						"dripsonic_mad"
 					]
 				],
 				"altAnim": false,
@@ -5486,6 +5507,13 @@
 						106650,
 						2,
 						0
+					],
+					[
+						105600,
+						-1,
+						"Change Character",
+						"1",
+						"dripsonic_forced"
 					]
 				],
 				"altAnim": false,
@@ -7181,6 +7209,13 @@
 						125925,
 						3,
 						0
+					],
+					[
+						124800,
+						-1,
+						"Change Character",
+						"1",
+						"dripsonic_mad"
 					]
 				],
 				"altAnim": false,
@@ -10124,7 +10159,7 @@
 				]
 			]
 		],
-		"player3": null,
+		"player3": "gfTroll",
 		"initialSpeed": 1.395,
 		"sliderVelocities": null,
 		"song": "No-Bitches-Penkaru",
