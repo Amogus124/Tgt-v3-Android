@@ -413,6 +413,27 @@
 						4,
 						0,
 						"nota de peligro"
+					],
+					[
+						16000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						16000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						16083.3333333333,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
 					]
 				],
 				"lengthInSteps": 16,
@@ -7036,6 +7057,20 @@
 						143291.666666667,
 						4,
 						0
+					],
+					[
+						143333.333333333,
+						-1,
+						"Change Character",
+						"1",
+						"shadowCrazy"
+					],
+					[
+						143416.666666667,
+						-1,
+						"Play Animation",
+						"die yep",
+						"Dad"
 					]
 				],
 				"altAnim": false,
@@ -7183,6 +7218,41 @@
 						4,
 						0,
 						"nota de peligro"
+					],
+					[
+						146166.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						146166.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						146500,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						146083.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						146416.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
 					]
 				],
 				"altAnim": false,
@@ -7301,6 +7371,76 @@
 						4,
 						0,
 						"nota de peligro"
+					],
+					[
+						148416.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						148416.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						148833.333333333,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						149166.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						149166.666666667,
+						-1,
+						"Play Animation",
+						"hurt",
+						"BF"
+					],
+					[
+						148333.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						148333.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						148750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						148750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						149083.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
 					]
 				],
 				"altAnim": false,
@@ -7453,6 +7593,20 @@
 						4,
 						0,
 						"nota de peligro"
+					],
+					[
+						151833.333333333,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						151500,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
 					]
 				],
 				"altAnim": false,
@@ -7526,6 +7680,62 @@
 						4,
 						0,
 						"nota de peligro"
+					],
+					[
+						152916.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						153083.333333333,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						153250,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						152833.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						152833.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						153000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						153000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						153166.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
 					]
 				],
 				"altAnim": false,
@@ -7587,6 +7797,139 @@
 						4,
 						0,
 						"nota de peligro"
+					],
+					[
+						153416.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						153416.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						153666.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						153666.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						153833.333333333,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						154000,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						154250,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						154416.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						153333.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						153333.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						153583.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						153583.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						153750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						153750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						153916.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						153916.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						154166.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						154166.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						154333.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
 					]
 				],
 				"altAnim": false,
@@ -8158,6 +8501,124 @@
 						165000,
 						1,
 						250
+					],
+					[
+						165250,
+						-1,
+						"Play Animation",
+						"hurt",
+						"BF"
+					]
+				],
+				"altAnim": false,
+				"bpm": 180,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						165333.333333333,
+						-1,
+						"Play Animation",
+						"die yep",
+						"BF"
+					],
+					[
+						165416.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						166166.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						165916.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						165916.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						166583.333333333,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						166583.333333333,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						165666.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						165666.666666667,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						166333.333333333,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					]
+				],
+				"altAnim": false,
+				"bpm": 180,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						166750,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						166750,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
+					],
+					[
+						167000,
+						-1,
+						"Play Animation",
+						"yep shoot",
+						"Dad"
 					]
 				],
 				"altAnim": false,
@@ -8274,24 +8735,6 @@
 				"mustHitSection": true
 			},
 			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"altAnim": false,
-				"bpm": 180,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"altAnim": false,
-				"bpm": 180,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
 				"sectionNotes": [],
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
@@ -8810,6 +9253,26 @@
 				"mustHitSection": true,
 				"changeBPM": false,
 				"bpm": 180
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 180,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 180,
+				"changeBPM": false,
+				"mustHitSection": true
 			},
 			{
 				"gfSection": false,
@@ -9726,7 +10189,7 @@
 				]
 			]
 		],
-		"player3": null,
+		"player3": "gfTroll",
 		"initialSpeed": 1.35,
 		"sliderVelocities": null,
 		"song": "Die-Batsards",
